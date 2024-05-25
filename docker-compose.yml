@@ -1,0 +1,14 @@
+version: "2.2"
+
+services:
+  pet-clinic:
+    image: eclipse-temurin:17-jdk-focal
+    container_name: pet-clinic
+    build:
+      context: .
+      dockerfile: Dockerfile
+    command: bash -c "java -jar target/*.jar"
+    ports:
+      - '8080:8080'
+    volumes:
+      - '.:/home/spring-study/app'
