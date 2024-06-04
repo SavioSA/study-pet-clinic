@@ -48,7 +48,7 @@
 	</build>
 
 	<scm>
-		<connection>scm:git:git@github.com:SavioSA/study-pet-clinic.git</connection>
+		<developerConnection>scm:git:git@github.com:SavioSA/study-pet-clinic.git</developerConnection>
 	  <tag>study-pet-clinic-0.0.1</tag>
   </scm>
 
