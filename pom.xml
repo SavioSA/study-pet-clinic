@@ -48,8 +48,10 @@
 	</build>
 
 	<scm>
-	<developerConnection>scm:git:git@github.com:SavioSA/study-pet-clinic.git</developerConnection>
-	  <tag>study-pet-clinic-0.0.1</tag>
-  </scm>
+		<url>https://github.com/SavioSA/study-pet-clinic</url>
+		<connection>scm:git:https://github.com/SavioSA/study-pet-clinic.git</connection>
+		<tag>study-pet-clinic-0.0.1</tag>
+
+	</scm>
 
 </project>
