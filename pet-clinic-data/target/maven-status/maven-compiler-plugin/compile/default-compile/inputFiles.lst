@@ -1,6 +1,15 @@
 /home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/model/PetType.java
+/home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/services/CrudService.java
 /home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/model/Owner.java
-/home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/model/Vet.java
-/home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/model/StudyPetClinicApplication.java
+/home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/services/OwnerService.java
+/home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/services/map/PetServiceMap.java
+/home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/services/map/OwnerServiceMap.java
+/home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/services/map/VetServiceMap.java
 /home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/model/Person.java
+/home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/services/VetService.java
+/home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/model/BaseEntity.java
+/home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/services/map/AbstractMapService.java
+/home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/services/PetService.java
+/home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/StudyPetClinicApplication.java
+/home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/model/Vet.java
 /home/desenvolvimento/study-pet-clinic/pet-clinic-data/src/main/java/com/example/studypetclinic/model/Pet.java
